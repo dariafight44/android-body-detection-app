@@ -9,4 +9,9 @@
         android:id="@+id/first_view_of_camera"
         android:layout_width="match_parent"
         android:layout_height="match_parent" />
+
+    <com.strangerwill.bda.camerascreen.Skillet
+        android:id="@+id/skeletyKrutye"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
 </androidx.constraintlayout.widget.ConstraintLayout>
